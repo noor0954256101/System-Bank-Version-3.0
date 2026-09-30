@@ -1,0 +1,11 @@
+﻿  Project 1 Bank Extension 2.cpp
+C:\Users\LOQ\Desktop\Programming\Programming Advices\8\Project 1 Bank Extension 2\Project 1 Bank Extension 2\Project 1 Bank Extension 2.cpp(70,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\LOQ\Desktop\Programming\Programming Advices\8\Project 1 Bank Extension 2\Project 1 Bank Extension 2\Project 1 Bank Extension 2.cpp(107,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\LOQ\Desktop\Programming\Programming Advices\8\Project 1 Bank Extension 2\Project 1 Bank Extension 2\Project 1 Bank Extension 2.cpp(284,10): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\LOQ\Desktop\Programming\Programming Advices\8\Project 1 Bank Extension 2\Project 1 Bank Extension 2\Project 1 Bank Extension 2.cpp(688,10): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\LOQ\Desktop\Programming\Programming Advices\8\Project 1 Bank Extension 2\Project 1 Bank Extension 2\Project 1 Bank Extension 2.cpp(1087,18): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\LOQ\Desktop\Programming\Programming Advices\8\Project 1 Bank Extension 2\Project 1 Bank Extension 2\Project 1 Bank Extension 2.cpp(567,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\LOQ\Desktop\Programming\Programming Advices\8\Project 1 Bank Extension 2\Project 1 Bank Extension 2\Project 1 Bank Extension 2.cpp(593,1): warning C4715: 'DeleteUserByUserName': not all control paths return a value
+C:\Users\LOQ\Desktop\Programming\Programming Advices\8\Project 1 Bank Extension 2\Project 1 Bank Extension 2\Project 1 Bank Extension 2.cpp(736,1): warning C4715: 'UpDateClientByAccountNumber': not all control paths return a value
+C:\Users\LOQ\Desktop\Programming\Programming Advices\8\Project 1 Bank Extension 2\Project 1 Bank Extension 2\Project 1 Bank Extension 2.cpp(761,1): warning C4715: 'UpDateUserByUserName': not all control paths return a value
+  Project 1 Bank Extension 2.vcxproj -> C:\Users\LOQ\Desktop\Programming\Programming Advices\8\Project 1 Bank Extension 2\x64\Debug\Project 1 Bank Extension 2.exe
